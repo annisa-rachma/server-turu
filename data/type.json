@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Hotel"
+    },
+    {
+        "name": "Guest House"
+    },
+    {
+        "name": "Hostel"
+    },
+    {
+        "name": "Resort"
+    },
+    {
+        "name": "Villa"
+    },
+    {
+        "name": "Appartment"
+    }
+]

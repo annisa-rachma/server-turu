@@ -1,0 +1,202 @@
+[
+    {
+        "name": "THE 1O1 Yogyakarta Tugu Hotel",
+        "facility": "Restaurant, Swimming pool, Fitness Center, Lounge",
+        "roomCapacity": 100,
+        "imgUrl": "https://gudeg.net/cni-content/uploads/modules/direktori/logo/20161124093438.jpg",
+        "authorId": 1,
+        "location": "Jl. Margoutomo 103 (Jl. Mangkubumi), Jetis, Yogyakarta, Yogyakarta Province, Indonesia, 55232",
+        "price": 1533000,
+        "typeId": 1    
+    },
+    {
+        "name": "Amanjiwo",
+        "facility": "Spa, Private swimming pool, Boutique, Garden, Hill",
+        "roomCapacity": 33,
+        "imgUrl": "https://www.trailsofindochina.com/wp-content/uploads/2018/07/1-1.jpg",
+        "authorId": 1,
+        "location": "Ds. Majaksingi, Borobudur, Central Java, Indonesia",
+        "price": 17000000,
+        "typeId": 4    
+    },
+    {
+        "name": "Hanoi High Five hostel",
+        "facility": "Laundry, Restaurant, Bar",
+        "roomCapacity": 10,
+        "imgUrl": "https://ak-d.tripcdn.com/images/220i0y000000ma1o8EC1F_R_960_660_R5_D.jpg",
+        "authorId": 1,
+        "location": "10 Hang Tre, Hoan Kiem District, Hoan Kiem, Hanoi, Vietnam",
+        "price": 243000,
+        "typeId": 3    
+    },
+    {
+        "name": "Kotone Machiya-Inn",
+        "facility": "Kitchen, Laundry",
+        "roomCapacity": 4,
+        "imgUrl": "https://ak-d.tripcdn.com/images/220c1b000001aqqap8633_R_960_660_R5_D.jpg",
+        "authorId": 1,
+        "location": "602-8034 Kyoto, Kyoto, 272-5, Japan",
+        "price": 4900000,
+        "typeId": 2    
+    },
+    {
+        "name": "Bulgari Resort Bali",
+        "facility": "Spa, Private swimming pool",
+        "roomCapacity": 25,
+        "imgUrl": "https://static51.com-hotel.com/uploads/hotel/87314/photo/bulgari-resort-bali_162368373515.jpg",
+        "authorId": 1,
+        "location": "Jalan Goa Lempeh, Banjar Dinas Kangin, 80364 Uluwatu, Indonesia",
+        "price": 26983000,
+        "typeId": 4    
+    },
+    {
+        "name": "Siam Eco Hostel",
+        "facility": "Laundry, Shower room",
+        "roomCapacity": 14,
+        "imgUrl": "https://siam-eco-hostel.bangkokshotels.com/data/Pictures/OriginalPhoto/8053/805388/805388829/bangkok-siam-eco-hostel-picture-5.JPEG",
+        "authorId": 1,
+        "location": "486/106-107 Petchaburi Road, Thanon Petchaburi, Ratchathewi, Bangkok",
+        "price": 551000,
+        "typeId": 3    
+    },
+    {
+        "name": "Kanhara Villas Ubud",
+        "facility": "Private pool",
+        "roomCapacity": 10,
+        "imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/434632738.jpg?k=2f435315389ca70ec5cd0f69be7937cbe1f9965174c8436e130b59bd94c168e6&o=&hp=1",
+        "authorId": 1,
+        "location": "Jalan Raya Kumbuh, Mas, Ubud, 80571 Ubud, Indonesia",
+        "price": 1698700,
+        "typeId": 5    
+    },
+    {
+        "name": "Swadana House",
+        "facility": "The whole house, terracce, private pool",
+        "roomCapacity": 1,
+        "imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/487028858.jpg?k=948b1eba2d6a02d9892c245f97b31e45a6c92e5500c1271998662f344a69f583&o=&hp=1",
+        "authorId": 1,
+        "location": "Jalan Cempaka, 80571 Ubud, Indonesia",
+        "price": 1423000,
+        "typeId": 2    
+    },
+    {
+        "name": "Mawa House",
+        "facility": "terrace, balcony",
+        "roomCapacity": 5,
+        "imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/495963819.jpg?k=5b08fec4e4c2355ca1398b22c3d0e1134b11d17bcf4a883aadd6b661b50d5a3b&o=&hp=1",
+        "authorId": 1,
+        "location": "20 Jalan Nyuh Bojog, 80571 Ubud, Indonesia",
+        "price": 560000,
+        "typeId": 2    
+    },
+    {
+        "name": "Wonderloft Hostel Jogja",
+        "facility": "breakfast",
+        "roomCapacity": 10,
+        "imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/244303451.jpg?k=54956de1d84b4f011005fda600f51c0e701b58c9b61252bc0b7b3197cccb2800&o=&hp=1",
+        "authorId": 1,
+        "location": "Jalan Tirtodipuran no 47, Mantrijeron, Mantrijeron, 55143 Yogyakarta, Indonesia",
+        "price": 305100,
+        "typeId": 3    
+    },
+    {
+        "name": "Villa Blue Steps",
+        "facility": "Swimming pool",
+        "roomCapacity": 2,
+        "imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/86702351.jpg?k=3736487a1fa9efcff69731b505a765368c9def47bedd64bccb673baa53c99a99&o=&hp=1",
+        "authorId": 1,
+        "location": "Jl. Bulevar RT 07, Karangjati, Bantul, 55184 Yogyakarta, Indonesia",
+        "price": 3179000,
+        "typeId": 5    
+    },
+    {
+        "name": "SWEETS - Kattenslootbrug",
+        "facility": "The whole apartment",
+        "roomCapacity": 1,
+        "imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/180872643.jpg?k=e2de6452cafcfff4f85fa673ef78aa44788fcd7c2439acddd3f42035b286a7fe&o=&hp=1",
+        "authorId": 1,
+        "location": "50 Nassaukade, Westerpark, 1052 KN Amsterdam, Netherlands",
+        "price": 2468300,
+        "typeId": 6    
+    },
+    {
+        "name": "Zoku Amsterdam",
+        "facility": "lofted bed, living room, kitchen",
+        "roomCapacity": 1,
+        "imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/64768746.jpg?k=b0a62a2eb299aaa31553ffcb9887d54cb5ea112e81a7a942a45aa25f88c84921&o=&hp=1",
+        "authorId": 1,
+        "location": "Weesperstraat 105, Amsterdam, 1018 VN Amsterdam, Netherlands",
+        "price": 4101000,
+        "typeId": 6    
+    },
+    {
+        "name": "Lapa Charming Apartment",
+        "facility": "Kitchen, Laundry",
+        "roomCapacity": 2,
+        "imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/489255457.jpg?k=c1815446718fab1a947c6eb97099994ff738f6c3fb07d72d3f94e9f62fbe64b9&o=&hp=1",
+        "authorId": 1,
+        "location": "Rua de Sant'Ana à Lapa, Estrela, 1200-796 Lisbon, Portugal",
+        "price": 2852400,
+        "typeId": 6    
+    },
+    {
+        "name": "Yunak Evleri Cappadocia",
+        "facility": "Outdoor fireplace",
+        "roomCapacity": 23,
+        "imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/58845321.jpg?k=a33408c82b4d3c35d2baea237891c280e27606f2c1027d529c8ab57e3decd2fd&o=&hp=1",
+        "authorId": 1,
+        "location": "Yunak Mahallesi, 50400 Ürgüp, Turki ",
+        "price": 3147700,
+        "typeId": 1  
+    },
+    {
+        "name": "Grand Rohan Jogja",
+        "facility": "swimming pool",
+        "roomCapacity": 300,
+        "imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/320579399.jpg?k=700438102a3b6c11fe97d98ed3de95ab70eb090e4f9be4aaa660b97285d5605e&o=&hp=1",
+        "authorId": 1,
+        "location": "Jalan Janti, Gedong Kuning No 336, 55198 Yogyakarta, Indonesia",
+        "price": 755200,
+        "typeId": 1   
+    },
+    {
+        "name": "CERIA HOTEL at Alun Alun Yogyakarta",
+        "facility": "breakfast, lounge",
+        "roomCapacity": 20,
+        "imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/389746809.jpg?k=c492bf0e01e1fbb137e16c3750c4a47c1012e3f20af091458678169863dc9c05&o=&hp=1",
+        "authorId": 1,
+        "location": " Jl Ibu Ruswo No 57 Prawirodirjan Gondomanan Jl Ibu Ruswo No 57 Prawirodirjan",
+        "price": 695250,
+        "typeId": 1    
+    },
+    {
+        "name": "Harper Malioboro",
+        "facility": "bar, restaurant",
+        "roomCapacity": 215,
+        "imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/497100184.jpg?k=ec0b2140ceff250883ed94194fd3e60ffe0c244611c0f8c049646385bde168b4&o=&hp=1",
+        "authorId": 1,
+        "location": "Jl. Mangkubumi No. 52, Jetis, 55232 Yogyakarta, Indonesia",
+        "price": 954800,
+        "typeId": 1    
+    },
+    {
+        "name": "Abhayagiri - Sumberwatu Heritage Resort",
+        "facility": "restaurant, mountain view",
+        "roomCapacity": 25,
+        "imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/412707766.jpg?k=07118801c27fc431bb5bf5a4d29650e7505772c61db94e83d2ddc3634a019ef1&o=&hp=1",
+        "authorId": 1,
+        "location": "Sumberwatu Heritage Resort Dusun Sumberwatu, Sambirejo, Prambanan RT 02 RW 01, 55571 Yogyakarta, Indonesia",
+        "price": 1177000,
+        "typeId": 4    
+    },
+    {
+        "name": "Home Addicts Hostel",
+        "facility": "locker",
+        "roomCapacity": 10,
+        "imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/218643407.jpg?k=9b502bad01e5f85a415aec713c31714142830daaae14e9330a189e77911fe15c&o=&hp=1",
+        "authorId": 1,
+        "location": "Jl. Nakulo No.2, Wirobrajan, Yogyakarta City, Special Region of Yogyakarta, Wirobrajan, 55252 Yogyakarta, Indonesia",
+        "price": 170500,
+        "typeId": 3    
+    }
+]
